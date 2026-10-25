@@ -52,5 +52,5 @@ This application helps students and developers curate, organize, and monitor the
 
 ## Author
 - **Ayan Khan** (Enrolment No: `25BCON1174`)
-- Department of Computer Science & Engineering, JECRC University
+- Department of Computer Science & Engineering, JECRC University,
 - GitHub: [@ayankhanbebea-lgtm](https://github.com/ayankhanbebea-lgtm)
